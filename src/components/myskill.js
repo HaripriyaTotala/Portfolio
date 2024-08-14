@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faHtml5,faCss3Alt,faJs,faReact} from '@fortawesome/free-brands-svg-icons'
 const Myskill = () => {
   return (
-    <section>
+    <section id="myskills">
    
    
    <div className='container'>
